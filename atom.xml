@@ -5,9 +5,9 @@
   
   <link href="/MyBlog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://qinchengqian.github.io/MyBlog/"/>
   <updated>2019-02-15T17:31:52.881Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://qinchengqian.github.io/MyBlog/</id>
   
   <author>
     <name>QCQ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>原来</title>
-    <link href="http://yoursite.com/2019/02/16/%E5%8E%9F%E6%9D%A5/"/>
-    <id>http://yoursite.com/2019/02/16/原来/</id>
+    <link href="https://qinchengqian.github.io/MyBlog/2019/02/16/%E5%8E%9F%E6%9D%A5/"/>
+    <id>https://qinchengqian.github.io/MyBlog/2019/02/16/原来/</id>
     <published>2019-02-15T17:31:52.000Z</published>
     <updated>2019-02-15T17:31:52.881Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/02/16/hello-world/"/>
-    <id>http://yoursite.com/2019/02/16/hello-world/</id>
+    <link href="https://qinchengqian.github.io/MyBlog/2019/02/16/hello-world/"/>
+    <id>https://qinchengqian.github.io/MyBlog/2019/02/16/hello-world/</id>
     <published>2019-02-15T16:51:11.789Z</published>
     <updated>2019-02-16T03:34:35.017Z</updated>
     
