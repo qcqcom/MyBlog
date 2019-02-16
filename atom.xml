@@ -6,7 +6,7 @@
   <link href="/MyBlog/atom.xml" rel="self"/>
   
   <link href="https://qinchengqian.github.io/MyBlog/"/>
-  <updated>2019-02-16T09:15:01.191Z</updated>
+  <updated>2019-02-16T09:26:28.200Z</updated>
   <id>https://qinchengqian.github.io/MyBlog/</id>
   
   <author>
@@ -21,12 +21,20 @@
     <link href="https://qinchengqian.github.io/MyBlog/2019/02/16/hexo%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E6%96%87%E7%AB%A0%EF%BC%88%E5%B8%A6%E5%9B%BE%E7%89%87%EF%BC%89/"/>
     <id>https://qinchengqian.github.io/MyBlog/2019/02/16/hexo入门学习（四）：文章（带图片）/</id>
     <published>2019-02-16T09:06:47.000Z</published>
-    <updated>2019-02-16T09:15:01.191Z</updated>
+    <updated>2019-02-16T09:26:28.200Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="web前端" scheme="https://qinchengqian.github.io/MyBlog/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="jQuery" scheme="https://qinchengqian.github.io/MyBlog/tags/jQuery/"/>
+    
+      <category term="表格" scheme="https://qinchengqian.github.io/MyBlog/tags/%E8%A1%A8%E6%A0%BC/"/>
+    
+      <category term="表单验证" scheme="https://qinchengqian.github.io/MyBlog/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
     
   </entry>
   
@@ -35,7 +43,7 @@
     <link href="https://qinchengqian.github.io/MyBlog/2019/02/16/do/"/>
     <id>https://qinchengqian.github.io/MyBlog/2019/02/16/do/</id>
     <published>2019-02-16T04:29:21.000Z</published>
-    <updated>2019-02-16T09:15:13.022Z</updated>
+    <updated>2019-02-16T09:24:14.013Z</updated>
     
     <summary type="html">
     
@@ -48,6 +56,8 @@
       
     
     </summary>
+    
+      <category term="hexo" scheme="https://qinchengqian.github.io/MyBlog/categories/hexo/"/>
     
     
   </entry>
