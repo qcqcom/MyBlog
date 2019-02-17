@@ -30,16 +30,6 @@ const ap = new APlayer({
         url: 'http://www.ytmp3.cn/down/38695.mp3',
 	  },
 	  {
-		name: '单行的轨道',
-        artist: '邓紫棋',
-        url: 'http://www.ytmp3.cn/down/33628.mp3',
-	  },
-	  {
-		name: '一路逆风',
-        artist: '邓紫棋',
-        url: 'http://www.ytmp3.cn/down/33629.mp3',
-	  },	
-	  {
         name: '痒',
         artist: '黄龄',
         url: 'http://www.ytmp3.cn/down/48513.mp3',
