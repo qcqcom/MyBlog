@@ -21,8 +21,8 @@ const ap = new APlayer({
 	  },
 	  {
         name: '后会无期',
-        artist: '邓紫棋',
-        url: 'http://www.ytmp3.cn/down/31468.mp3',
+        artist: '朴树',
+        url: 'http://www.ytmp3.cn/down/33539.mp3',
 	  },
 	  {
         name: '泡沫',
