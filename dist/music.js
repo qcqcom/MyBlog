@@ -30,16 +30,6 @@ const ap = new APlayer({
         url: 'http://www.ytmp3.cn/down/38695.mp3',
 	  },
 	  {
-        name: '痒',
-        artist: '黄龄',
-        url: 'http://www.ytmp3.cn/down/48513.mp3',
-	  },
-	  {
-        name: '如果有来生',
-        artist: '谭维维',
-        url: 'http://www.ytmp3.cn/down/49078.mp3',
-	  },
-	  {
         name: '游乐场',
         artist: '谢霆锋',
         url: 'http://www.ytmp3.cn/down/55966.mp3',
