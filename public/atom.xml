@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>technology</title>
+  
+  
+  <link href="/MyBlog/atom.xml" rel="self"/>
+  
+  <link href="https://qinchengqian.github.io/MyBlog/"/>
+  <updated>2019-02-17T07:42:23.304Z</updated>
+  <id>https://qinchengqian.github.io/MyBlog/</id>
+  
+  <author>
+    <name>QCQ</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>swig模版用法</title>
+    <link href="https://qinchengqian.github.io/MyBlog/2019/02/17/swig%E6%A8%A1%E7%89%88%E7%94%A8%E6%B3%95/"/>
+    <id>https://qinchengqian.github.io/MyBlog/2019/02/17/swig模版用法/</id>
+    <published>2019-02-17T07:37:58.000Z</published>
+    <updated>2019-02-17T07:42:23.304Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="待更。。。。。。。。。。。。。。"><a href="#待更。。。。。。。。。。。。。。" class="headerlink" title="待更。。。。。。。。。。。。。。"></a>待更。。。。。。。。。。。。。。</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;待更。。。。。。。。。。。。。。&quot;&gt;&lt;a href=&quot;#待更。。。。。。。。。。。。。。&quot; class=&quot;headerlink&quot; title=&quot;待更。。。。。。。。。。。。。。&quot;&gt;&lt;/a&gt;待更。。。。。。。。。。。。。。&lt;/h3&gt;
+      
+    
+    </summary>
+    
+      <category term="web前端" scheme="https://qinchengqian.github.io/MyBlog/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="swig" scheme="https://qinchengqian.github.io/MyBlog/tags/swig/"/>
+    
+  </entry>
+  
+</feed>
